@@ -3,6 +3,8 @@
 ## Description
 This project is a Client Time Management Application designed to facilitate the tracking of client information, projects, and timesheets. It provides functionalities to add new clients, add projects for clients, add timesheets for projects, display timesheets, clients, and projects.
 
+![UML design](https://i.imgur.com/wtYpczY.png)
+
 ## Features
 1. **Add New Clients:** Allows users to add new clients to the system.
 2. **Add New Projects:** Enables users to add new projects for existing clients.
