@@ -1,0 +1,16 @@
+#ifndef TIMESHEET_
+#define TIMESHEET_
+
+
+class timesheet
+{
+    public:
+        timesheet();
+        virtual ~timesheet();
+
+    protected:
+
+    private:
+};
+
+#endif // TIMESHEET_

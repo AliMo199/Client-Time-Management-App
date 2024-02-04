@@ -1,0 +1,16 @@
+#ifndef TIMEH_
+#define TIMEH_
+
+
+class timeh
+{
+    public:
+        timeh();
+        virtual ~timeh();
+
+    protected:
+
+    private:
+};
+
+#endif // TIMEH_
